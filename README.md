@@ -5,7 +5,7 @@ Governance in general refers to when an entity observes control and direction of
 
 The formality and structure that governance takes depend on context and intent.
 
-Data Governance Cycle:
+Data Governance Framework:
 - Discovery
 - Classification
 - Policy
@@ -37,3 +37,19 @@ Data Governance just refers to the governance of data.
 - Reduced risks from data-related issues
 - Reduced data management costs
 - Established rules for handling data
+
+### Creating Data Governance Program
+- Define Vision Goals, Visions, etc
+- Analyse Current State of Governance and Management
+- Develop proposal plus a draft plan
+- Receive Approval from Leadership
+- Desgin and Develop program
+- Implement Program
+- Monitor performance
+- Maintain program
+
+### Elements of Data Governance
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/03958a59-8a30-4631-a61e-e4c7f0c50b5a)
+
+### Developing a Data Governance Framework
+A Data Governance Framework refers to a set of guiding concepts and a structure in which to apply a Data Governance Program.
