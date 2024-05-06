@@ -53,3 +53,20 @@ Data Governance just refers to the governance of data.
 
 ### Developing a Data Governance Framework
 A Data Governance Framework refers to a set of guiding concepts and a structure in which to apply a Data Governance Program.
+
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/a519a235-c5a4-49e3-b9c6-e82c9cd0223f)
+
+Data Governance Framework Notes:
+Your data governance program must be aligned with the strategy of the organization.
+
+Every data governance framework includes the identification and assignment of specific roles and responsibilities, which range from the information technology (IT) team to data stewards.
+
+Capturing metrics and delivering them to a variety of stakeholders is important for maintaining support, which includes funding. Overal Improvements can be made based on Metrics in order to ensure that the program is producing value.
+
+Tools for data governance frameworkinclude master data management, data catalogs, search, security, integration, analytics, and compliance.
+
+
+On a basic level, data culture is how your organization values data and how it manages and uses it.
+decisions are based on data and the insights they can produce.
+
+### Maturing the Data Culture
