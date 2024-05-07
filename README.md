@@ -70,3 +70,13 @@ On a basic level, data culture is how your organization values data and how it m
 decisions are based on data and the insights they can produce.
 
 ### Maturing the Data Culture
+- Assist leaders to elaborate the importance of data and create an environment where Data is priority by, for instance, showing the positive outcomes of prioritizing data.
+
+- Provide the basic tools and educate stakeholders on how to manage and manipulate data.
+
+- Create a mock-up of the progress that a Mature Data Culture could have.
+
+-  Provide a feedback channel for reviews from employees
+
+### Governance Readiness 
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/30f1ff42-714f-4661-9077-be969c7f53e3)
