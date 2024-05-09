@@ -137,4 +137,11 @@ Refers to creatin reports, displaying results of data such as trends, etc.
 - Problem Solving
 - Data Reuse
 
+### Economc Value of Data as an Asset
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/dcad9da7-3b68-4881-9fcd-1ba5f27cb0a3)
 
+### Data Analytics
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/2c88376c-beb4-4394-977e-2c72adb730c8)
+
+Four Primary Types of Data Analytics
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/2d942699-0c06-4038-9f26-eea5cde03bb3)
