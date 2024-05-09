@@ -80,3 +80,32 @@ decisions are based on data and the insights they can produce.
 
 ### Governance Readiness 
 ![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/30f1ff42-714f-4661-9077-be969c7f53e3)
+
+
+### Zettabyte
+A Zettabyte is a 1 with 21 zeros after it
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/400a0fdb-d7d9-453d-9be7-589ada4c2b95)
+
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/3773387d-9261-4622-91fe-9fa4fddbb9ea)
+
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/f97b20d1-b45b-438b-addc-c6ece596e5fa)
+
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/27e330a6-ba10-401a-b62c-2e0c6cc80e0f)
+
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/562b3278-bf9c-4a89-9cf7-4a2bbd4a9846)
+
+### Data Architecture
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/14eb6ea4-81ac-48ac-be08-1d67254fe0c1)
+
+The practice of Enteprise Architecture (EA) refers to teh various technical Needs of a business which supports the business' overal strategies by making use of various standards, principles, etc. This allows a business to analyse, create and implement the best polocies, structure and technologies to best positively impact Business Goals.
+
+Data Architecture is a subset of EA, it refers to the manner in which data design and management decisions are being made to align with EA and in turn, with the business. It is the agreed upon blueprint referring to how data should support the organizations decisions.
+
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/c4fabbb0-8ee6-444f-92a4-eef7466d9f79)
+
+### Data Lifecycle
+![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/c4982a87-2481-4d45-b2ca-b543bf97511e)
+
+
+
+ 
