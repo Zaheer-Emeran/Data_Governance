@@ -110,5 +110,31 @@ Data Architecture is a subset of EA, it refers to the manner in which data desig
  ![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/213c1900-f2e9-43b7-9115-71759ae7e920)
 
 ### Roles of Data
+#### Operations
+This refers to the various way which the different departments within a business uses data. such as HR, Supply Chain, Marketing etc.
+
+#### Strategy
+Refers to the use of Data within a company to formulate strategies in order to counteract various issues which may arise regarding the business. It also helps to create a roadmap for various projects.
+
+#### Decision-Making
+Refers to using clean and accurate data in order to make various decisions for the business which follows various predefined business rules, polocies, etc.
+
+#### Measuring
+Refers to the method used in observing various forms and units of data within a buiness in order to create various strategies, make decisions, etc. 
+
+#### Monitoring
+Refers to comparing current data with previous data, gain insights into data, identify trends, etc.
+
+#### Insight Management
+As a basic definition, business insight is sometimes referred to as information that can make a difference.
+Insight management begins with gathering and analyzing data from different sources. In order to determine what data to process, those responsible for insight management must deeply understand the organization’s information needs.
+
+#### Reporting
+Refers to creatin reports, displaying results of data such as trends, etc.
+
+#### Other roles of data
+- AI
+- Problem Solving
+- Data Reuse
 
 
