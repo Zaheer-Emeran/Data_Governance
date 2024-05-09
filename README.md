@@ -106,6 +106,9 @@ Data Architecture is a subset of EA, it refers to the manner in which data desig
 ### Data Lifecycle
 ![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/c4982a87-2481-4d45-b2ca-b543bf97511e)
 
+ ### Big Data:
+ ![image](https://github.com/Zaheer-Emeran/Data_Governance/assets/162816701/213c1900-f2e9-43b7-9115-71759ae7e920)
+
+### Roles of Data
 
 
- 
